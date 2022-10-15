@@ -1,0 +1,11 @@
+{
+  "name": "mern-ticket-manager",
+  "version": "1.0.0",
+  "description": "Support ticket app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "author": "Martin Kinder",
+  "license": "MIT"
+}
